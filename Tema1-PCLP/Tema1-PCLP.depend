@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1585916462 source:c:\users\madalina\desktop\programe pclp ii\tema1-pclp\src\punct3d.cpp
+	"Punct3D.h"
+
+1586092122 source:c:\users\madalina\desktop\programe pclp ii\tema1-pclp\src\sfera.cpp
+	"Sfera.h"
+	"Punct3D.h"
+	<math.h>
+
+1585915244 c:\users\madalina\desktop\programe pclp ii\tema1-pclp\include\punct3d.h
+
+1586092122 c:\users\madalina\desktop\programe pclp ii\tema1-pclp\include\sfera.h
+	"Punct3D.h"
+
+1586093029 source:c:\users\madalina\desktop\programe pclp ii\tema1-pclp\main.cpp
+	<iostream>
+	"Sfera.h"
+
