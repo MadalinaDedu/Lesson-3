@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1586456487 source:c:\users\madalina\desktop\programe pclp ii\laborator 7\main.cpp
+	<iostream>
+	"time.h"
+	"DateTime.h"
+
+1586456829 c:\users\madalina\desktop\programe pclp ii\laborator 7\include\time.h
+
+1586456875 source:c:\users\madalina\desktop\programe pclp ii\laborator 7\src\time.cpp
+	"time.h"
+	<iostream>
+
+1586456953 source:c:\users\madalina\desktop\programe pclp ii\laborator 7\src\datetime.cpp
+	"DateTime.h"
+
+1586456193 c:\users\madalina\desktop\programe pclp ii\laborator 7\include\datetime.h
+	"time.h"
+	<iostream>
+
