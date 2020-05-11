@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1585820207 source:c:\users\madalina\desktop\programe pclp ii\laborator 6\src\complex.cpp
+	"complex.h"
+
+1585820207 c:\users\madalina\desktop\programe pclp ii\laborator 6\include\complex.h
+	<iostream>
+
+1585820303 source:c:\users\madalina\desktop\programe pclp ii\laborator 6\main.cpp
+	<iostream>
+	"complex.h"
+
