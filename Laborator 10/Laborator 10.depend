@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1589057986 source:c:\users\madalina\desktop\programe pclp ii\laborator 10\main.cpp
+	<iostream>
+
+1589057986 source:c:\users\madalina\desktop\programe pclp ii\laborator 10\src\point.cpp
+	<iostream>
+	"point.h"
+
+1589058002 c:\users\madalina\desktop\programe pclp ii\laborator 10\include\point.h
+	<iostream>
+
+1589058861 source:c:\users\madalina\desktop\programe pclp ii\laborator 10\src\circle.cpp
+	"circle.h"
+
+1589058085 c:\users\madalina\desktop\programe pclp ii\laborator 10\include\circle.h
+	<iostream>
+	<iomanip>
+	"point.h"
+
+1589058861 source:c:\users\madalina\desktop\programe pclp ii\laborator 10\src\cylinder.cpp
+	"cylinder.h"
+
+1589058861 c:\users\madalina\desktop\programe pclp ii\laborator 10\include\cylinder.h
+	<iostream>
+	"circle.h"
+
