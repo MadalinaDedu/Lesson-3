@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1589972711 source:c:\users\madalina\desktop\programe pclp ii\tema 2\main.cpp
+	<iostream>
+	"Persoana.h"
+	"Student.h"
+	"Profesor.h"
+
+1589961835 source:c:\users\madalina\desktop\programe pclp ii\tema 2\src\persoana.cpp
+	"Persoana.h"
+
+1589961814 c:\users\madalina\desktop\programe pclp ii\tema 2\include\persoana.h
+	<string>
+
+1589962570 c:\users\madalina\desktop\programe pclp ii\tema 2\include\student.h
+	"Persoana.h"
+	<vector>
+	<string>
+
+1589976718 source:c:\users\madalina\desktop\programe pclp ii\tema 2\src\student.cpp
+	"Student.h"
+	"Persoana.h"
+	<iostream>
+	<vector>
+
+1589976288 source:c:\users\madalina\desktop\programe pclp ii\tema 2\src\profesor.cpp
+	"Profesor.h"
+	<vector>
+	<iostream>
+	"Persoana.h"
+
+1589972823 c:\users\madalina\desktop\programe pclp ii\tema 2\include\profesor.h
+	"Persoana.h"
+	<vector>
+
