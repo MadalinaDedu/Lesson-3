@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1590493781 source:c:\users\madalina\desktop\programe pclp ii\laborator 11\main.cpp
+	<iostream>
+	"Queue.h"
+
+1590516099 c:\users\madalina\desktop\programe pclp ii\laborator 11\include\queue.h
+
+1590437863 source:c:\users\madalina\desktop\programe pclp ii\laborator 11\src\queue.cpp
+	"Queue.h"
+
